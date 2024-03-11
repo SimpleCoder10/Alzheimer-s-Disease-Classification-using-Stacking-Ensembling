@@ -3,7 +3,9 @@
 ### Introduction
 The project is dedicated to accurately classifying individuals into distinct categories, namely Demented, Non-Demented, and Converted. In this project, the focus is on Alzheimer's Disease classification, wherein a distinctive Stacking Ensemble framework is adopted to address the intricacies of the problem. 
 
-The stacked model demonstrated noteworthy performance with an overall accuracy of 91.82%. Notably, the final learning model employed in this stack was the LDA classifier. Moreover, the precision achieved in the classification process reached an impressive 94.02%.
+The stacked model demonstrated noteworthy performance with an overall accuracy of 96.47%. Notably, the final learning model employed in this stack was the LDA classifier. Moreover, the precision and recall achieved in the classification process reached an impressive 96.49%.
+
+NOTE:- The project code is not public yet, the reason is a Research Paper is under development and once the paper is presented in public, the code will be provided on request. You, can reach me out on my E-mail. 
 
 ### How to run the project?
 - Download the project, go to the project directory , install streamlit and you are good to go.
